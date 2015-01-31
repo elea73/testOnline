@@ -3,6 +3,7 @@
 // Implementation of the App class.
 //
 // test change
+// trou duc !!!!
 
 #include "pch.h"
 #include "MainPage.xaml.h"
