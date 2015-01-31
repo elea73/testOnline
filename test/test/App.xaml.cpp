@@ -2,6 +2,7 @@
 // App.xaml.cpp
 // Implementation of the App class.
 //
+// test change
 
 #include "pch.h"
 #include "MainPage.xaml.h"
